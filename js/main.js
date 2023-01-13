@@ -1,7 +1,8 @@
 const horas = document.querySelector("[data-horas]");
 const minutos = document.querySelector("[data-minutos]");
 const segundos = document.querySelector("[data-segundos]");
-const data = document.querySelector('[data]')
+
+
 
 
 const relogio = setInterval(function () {
